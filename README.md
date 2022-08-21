@@ -5,3 +5,4 @@
 - [Reducible](https://www.youtube.com/c/Reducible)
 - [vcubingx](https://www.youtube.com/c/VCubingX)
 - [Emergent Garden](https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw)
+- [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos)

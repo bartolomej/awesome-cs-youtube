@@ -6,3 +6,4 @@
 - [vcubingx](https://www.youtube.com/c/VCubingX)
 - [Emergent Garden](https://www.youtube.com/channel/UCwBhBDsqiQflTMLy2epbQVw)
 - [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos)
+- [Layerwise Lectures](https://www.youtube.com/channel/UCy9T075tKmceX-a-YJGrRgA)

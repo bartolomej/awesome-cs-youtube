@@ -9,3 +9,4 @@
 - [Layerwise Lectures](https://www.youtube.com/channel/UCy9T075tKmceX-a-YJGrRgA)
 - [Mathemaniac](https://www.youtube.com/c/Mathemaniac)
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo) (System Design)
+- [CodeAestetic](https://youtube.com/@CodeAesthetic)

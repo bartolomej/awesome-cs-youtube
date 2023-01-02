@@ -5,6 +5,7 @@
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
 - [Low Byte Productions](https://www.youtube.com/@LowByteProductions)
 - [Ben Eater](https://www.youtube.com/user/eaterbc)
+- [PwnFunction](https://www.youtube.com/@PwnFunction)
 
 ## Algorithms & Math
 - [SpanningTree](https://www.youtube.com/c/SpanningTree)

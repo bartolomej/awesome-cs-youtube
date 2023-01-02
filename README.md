@@ -1,5 +1,7 @@
 # Awesome Computer Science YouTube channels
 
+- [Low Byte Productions](https://www.youtube.com/@LowByteProductions)
+- [Ben Eater](https://www.youtube.com/user/eaterbc)
 - [SpanningTree](https://www.youtube.com/c/SpanningTree)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Reducible](https://www.youtube.com/c/Reducible)

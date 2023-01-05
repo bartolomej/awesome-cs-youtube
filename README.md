@@ -16,8 +16,10 @@
 - [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos)
 - [Layerwise Lectures](https://www.youtube.com/@layerwiselectures)
 - [Mathemaniac](https://www.youtube.com/c/Mathemaniac)
+- [The Roadmap - Data Structures Illustrated](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 
 
 ## Software Engineering & System design
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
 - [CodeAestetic](https://youtube.com/@CodeAesthetic)
+- [The Roadmap - System Design 101](https://www.youtube.com/playlist?list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)

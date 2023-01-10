@@ -17,6 +17,7 @@
 - [Layerwise Lectures](https://www.youtube.com/@layerwiselectures)
 - [Mathemaniac](https://www.youtube.com/c/Mathemaniac)
 - [The Roadmap - Data Structures Illustrated](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+- [Prof. Dr. Jens Dittrich, Big Data Analytics](https://www.youtube.com/@jensdit)
 
 
 ## Software Engineering & System design

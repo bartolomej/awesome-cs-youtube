@@ -18,7 +18,7 @@
 - [Mathemaniac](https://www.youtube.com/c/Mathemaniac)
 - [The Roadmap - Data Structures Illustrated](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 - [Prof. Dr. Jens Dittrich, Big Data Analytics](https://www.youtube.com/@jensdit)
-
+- [Ari Seff](https://youtu.be/VPRSBzXzavo)
 
 ## Software Engineering & System design
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo)

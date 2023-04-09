@@ -19,6 +19,7 @@
 - [The Roadmap - Data Structures Illustrated](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 - [Prof. Dr. Jens Dittrich, Big Data Analytics](https://www.youtube.com/@jensdit)
 - [Ari Seff](https://youtu.be/VPRSBzXzavo)
+- [Artem Kirsanov - Computational neuroscience](https://youtube.com/@ArtemKirsanov)
 
 ## Software Engineering & System design
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo)

@@ -6,6 +6,7 @@
 - [Low Byte Productions](https://www.youtube.com/@LowByteProductions)
 - [Ben Eater](https://www.youtube.com/user/eaterbc)
 - [PwnFunction](https://www.youtube.com/@PwnFunction)
+- [Jacob Sorber](https://www.youtube.com/@JacobSorber)
 
 ## Algorithms & Math
 - [SpanningTree](https://www.youtube.com/c/SpanningTree)

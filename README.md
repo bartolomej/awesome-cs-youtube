@@ -26,3 +26,4 @@
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
 - [CodeAestetic](https://youtube.com/@CodeAesthetic)
 - [The Roadmap - System Design 101](https://www.youtube.com/playlist?list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
+- [Coderized](https://www.youtube.com/@coderized)

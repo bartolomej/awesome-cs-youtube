@@ -1,6 +1,6 @@
 # Awesome Computer Science YouTube channels
 
-## Low level
+## 🤖 Low level
 
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
 - [Low Byte Productions](https://www.youtube.com/@LowByteProductions)
@@ -8,7 +8,7 @@
 - [PwnFunction](https://www.youtube.com/@PwnFunction)
 - [Jacob Sorber](https://www.youtube.com/@JacobSorber)
 
-## Algorithms & Math
+## ∑ Algorithms & Math
 - [SpanningTree](https://www.youtube.com/c/SpanningTree)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [Reducible](https://www.youtube.com/c/Reducible)
@@ -22,8 +22,11 @@
 - [Ari Seff](https://youtu.be/VPRSBzXzavo)
 - [Artem Kirsanov - Computational neuroscience](https://youtube.com/@ArtemKirsanov)
 
-## Software Engineering & System design
+## 🔨 Software Engineering & System design
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
 - [CodeAestetic](https://youtube.com/@CodeAesthetic)
 - [The Roadmap - System Design 101](https://www.youtube.com/playlist?list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
 - [Coderized](https://www.youtube.com/@coderized)
+
+## 🧠 Neuro Science
+- [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov)

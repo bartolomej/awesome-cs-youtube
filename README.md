@@ -9,6 +9,7 @@
 - [Jacob Sorber](https://www.youtube.com/@JacobSorber)
 
 ## ∑ Algorithms & Math
+- [WelchLabs](https://youtube.com/@welchlabsvideo)
 - [SpanningTree](https://www.youtube.com/c/SpanningTree)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [Reducible](https://www.youtube.com/c/Reducible)

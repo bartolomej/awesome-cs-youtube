@@ -8,6 +8,9 @@
 - [PwnFunction](https://www.youtube.com/@PwnFunction)
 - [Jacob Sorber](https://www.youtube.com/@JacobSorber)
 
+## 👾 Game Dev
+- [Inkbox](https://www.youtube.com/@InkboxSoftware)
+
 ## ∑ Algorithms & Math
 - [WelchLabs](https://youtube.com/@welchlabsvideo)
 - [SpanningTree](https://www.youtube.com/c/SpanningTree)
